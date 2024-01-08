@@ -1,0 +1,11 @@
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\bin\Debug\net7.0\GameModels.deps.json
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\bin\Debug\net7.0\GameModels.dll
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\bin\Debug\net7.0\GameModels.pdb
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.AssemblyInfoInputs.cache
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.AssemblyInfo.cs
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.csproj.CoreCompileInputs.cache
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.dll
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\refint\GameModels.dll
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\GameModels.pdb
+C:\Users\anton\RiderProjects\TcpSeminarOris\GameModels\obj\Debug\net7.0\ref\GameModels.dll
